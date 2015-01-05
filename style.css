@@ -25,7 +25,11 @@ h1 {
 
 }
 
-
+b {
+	text-shadow: 0px 1px 1px #4d4d4d;
+	color: #222;
+	font: 20px 'LeagueGothicRegular';
+}
 
 .college:after {
 
@@ -55,9 +59,6 @@ pre span {
   height: 31px;
 }
 
-.music {
-	text-align: center;
-}
 
 .blink_me {
     -webkit-animation-name: blinker;
@@ -103,4 +104,11 @@ text-shadow: 0 0 10px #fff,
                    0 0 80px #ff00de,
                    0 0 100px #ff00de,
                    0 0 150px #ff00de;
+}
+
+.header {
+	color: #d7ceb2;
+	text-shadow: 3px 3px 0px #2c2e38, 5px 5px 0px #5c5f72;
+	font: 20px 'BazarMedium';
+	letter-spacing: 10px;
 }
