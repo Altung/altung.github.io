@@ -1,16 +1,29 @@
 html, body {
-    background-color: #8D4252;
+    background-color: #b4b4b4;
     margin: 0px;
+	text-align: center;
+	font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
 }
 
 h1 {
 	text-align: center;
+	font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+	
 }
 
+.college {
+	font-size: 35px;
+}
 p {
 	text-align: center;
+	font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
 }
 
 pre {
+	text-align: center;
+	font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+}
+
+.music {
 	text-align: center;
 }
